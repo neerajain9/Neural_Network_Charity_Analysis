@@ -7,17 +7,6 @@ We are helping Beks to create a binary classifier that is capable of predicting 
 
 #
 ## Results
-<!-- EIN and NAME—Identification columns
-APPLICATION_TYPE—Alphabet Soup application type
-AFFILIATION—Affiliated sector of industry
-CLASSIFICATION—Government organization classification
-USE_CASE—Use case for funding
-ORGANIZATION—Organization type
-STATUS—Active status
-INCOME_AMT—Income classification
-SPECIAL_CONSIDERATIONS—Special consideration for application
-ASK_AMT—Funding amount requested
-IS_SUCCESSFUL—Was the money used effectively -->
 
 ### Data Processing
 1. Variable(s) considered the target
@@ -47,6 +36,7 @@ IS_SUCCESSFUL—Was the money used effectively -->
 
 1. Were you able to achieve the target model performance?
     1. We **could not achieve the target model performance**. We made many attempts but recorded only 3 for the challenge.
+    
     ![](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization%201.png?raw=true)
     ![](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization%202.png?raw=true)
     ![](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization%203.png?raw=true)
@@ -71,4 +61,4 @@ Considering the size of the data, not that big though, it was a bit time consumi
 Our first model design is our best so far and our only **[recommendation](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization_Original.png)**.
 
 
-![](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization_Original.png?raw=true)
+![](https://github.com/neerajain9/Neural_Network_Charity_Analysis/blob/Data-Science/Resources/optimization_Original.png?raw=true).
